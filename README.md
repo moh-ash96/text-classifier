@@ -1,3 +1,3 @@
 # text-classifier
 
-[Pull request](www.github.com/moh-ash96/)
+[Pull request](https://github.com/moh-ash96/text-classifier/pull/1)
